@@ -86,8 +86,8 @@ int main(int argc, char *argv[]) {
 
 
 ## OUTPUT
+<img width="716" height="455" alt="image" src="https://github.com/user-attachments/assets/d4f11f97-8397-4b59-ab4f-43d41153ae29" />
 
-![Alt text](./ex04-1.png)
 
 
 # RESULT:
